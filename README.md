@@ -62,11 +62,11 @@ const adilson = {
 
 <div align="center">
 
-<a href="https://github.com/adilsonsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<a href="https://github.com/adilson2k">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilson3k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 <a href="https://github.com/adilsonsoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonsoares&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilson2k&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
